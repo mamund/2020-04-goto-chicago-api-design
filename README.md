@@ -2,8 +2,6 @@
 
 Repo for the 2020-04 GOTO Chicago "API Design" Masterclass 
 
-_I'll be posting prep material here each day in the run-up to the masterclass later this week._
-
 ### Class Prep
 We'll be working on exercises and class assignments throughout the sessions. To make sure you're ready for the projects, read through the [Installing](2020-04-installing.md) document for details on how to get your workstation/laptop set up for the masterclass.
 
@@ -17,7 +15,7 @@ Sample API Diagrams are in the [diagrams](diagrams/) folder. These were created 
 This course has an overnight assignment. The [README](assignment/README.md) lists the details. We'll expand on them throughout the first day of the course, too.
 
 ### ALPS Description
-TK
+Sample Application-Level Profile Semantics (ALPS) documents are in the [ALPS](alps/) folder. 
 
 
 _@mamund_
