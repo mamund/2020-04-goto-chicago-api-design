@@ -8,7 +8,7 @@ _I'll be posting prep material here each day in the run-up to the masterclass la
 We'll be working on exercises and class assignments throughout the sessions. To make sure you're ready for the projects, read through the [Installing](2020-04-installing.md) document for details on how to get your workstation/laptop set up for the masterclass.
 
 ### API Stories
-You'll find a list of sample stories in the [/stories](stories/README.md) folder. You'll also find a template [API Story Builder](stories/api-story-builder.md). 
+You'll find a list of sample stories in the [stories](stories/) folder. You'll also find a template [API Story Builder](stories/api-story-builder.md). 
 
 ### API Diagrams
 TK
