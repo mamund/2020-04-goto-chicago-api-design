@@ -11,7 +11,7 @@ We'll be working on exercises and class assignments throughout the sessions. To 
 You'll find a list of sample stories in the [stories](stories/) folder. You'll also find a template [API Story Builder](stories/api-story-builder.md). 
 
 ### API Diagrams
-TK
+Sample API Diagrams are in the [diagrams](diagrams/) folder. These were created using the http://websequencediagrams.com web app.
 
 ### Assignment
 This course has an overnight assignment. The [README](assignment/README.md) lists the details. We'll expand on them throughout the first day of the course, too.
