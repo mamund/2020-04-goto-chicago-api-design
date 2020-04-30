@@ -1,0 +1,14 @@
+title Company API Diagram
+
+Home->+List:collection
+List-->-Home:home
+List->+Filter:search
+Filter-->-List:collection
+List->+Read:item
+Read-->-List:collection
+Read->+Update:update
+Update-->-Read:item
+Read->+Delete:remove
+Delete-->-List:collection
+List->+Create:create
+Create-->-List:collection
