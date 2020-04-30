@@ -6,7 +6,7 @@ Repo for the 2020-04 GOTO Chicago "API Design" Masterclass
 We'll be working on exercises and class assignments throughout the sessions. To make sure you're ready for the projects, read through the [Installing](2020-04-installing.md) document for details on how to get your workstation/laptop set up for the masterclass.
 
 ### Install the unified utility
-The second half of this course has an example that uses the `unified` ALPS translator utility. You can CLONE the [project](https://github.com/mamund/2020-04-unified-api-design) that from github and install it from the `/src/` folder using the `install -g .` command
+The second half of this course has an example that uses the `unified` ALPS translator utility. You can FORK/CLONE the [project](https://github.com/mamund/2020-04-unified-api-design) that from github and install it from the `/src/` folder using the `install -g .` command
 
 ### API Stories
 You'll find a list of sample stories in the [stories](stories/) folder. You'll also find a template [API Story Builder](stories/api-story-builder.md). 
